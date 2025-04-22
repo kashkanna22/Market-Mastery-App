@@ -1,6 +1,6 @@
-# Market Mastery 📈💸
+# Market Mastery 📈💸📉
 
-An iOS game that challenges users to predict whether stock prices have gone higher or lower in the past 24 hours. Built with SwiftUI and CoinGecko API.
+An iOS game that challenges users to predict whether stock prices have gone higher📈 or lower📉 in the past 24 hours. Built with SwiftUI and CoinGecko API.
 
 ---
 
@@ -22,18 +22,18 @@ An iOS game that challenges users to predict whether stock prices have gone high
 - 📊 Real market data from CoinGecko
 - 🤔 High/Low guessing mechanic with immediate feedback
 - 🔥 Streaks and multipliers for high-score chasing
-- 🧮 Multiplier logic + scrollable history section
+- 🕹️ Multiplier logic + scrollable history section
 - 🧼 Restart button resets back to home screen
 
 ---
 
 ## ⚠️ Challenges & Future Additions
 
-- Fine-tuning layout and scroll behavior across screen sizes; Adding real market data after answering question
-- Adding sounds, haptics, or animations for feedback
-- Potential leaderboard and social comparison
-- Light/Dark mode toggle; Ability to choose background color
-- Better UI grouping or theming for score feedback
+- 📱 Fine-tuning layout and scroll behavior across screen sizes; Adding real market data after answering question
+- 🔈 Adding sounds, haptics, or animations for feedback
+- 🥇 Potential leaderboard and social comparison
+- 🎨 Light/Dark mode toggle; Ability to choose background color
+- 👨‍🏫 Better UI grouping or theming for score feedback
 
 ---
 
