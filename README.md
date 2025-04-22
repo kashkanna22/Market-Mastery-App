@@ -5,13 +5,12 @@ An iOS game that challenges users to predict whether stock prices have gone high
 ---
 
 ## 📸 Screenshots
-<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/d25ece3e-e89a-44fb-95cc-f5371d30b336" />
-<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/95847a51-cd5d-4052-9cbf-37848c623abc" />
-<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/9f9214e9-7da0-4de7-b659-9c7fd3c4fba5" />
-<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/012717ca-17f8-4d51-93da-e160629c2c15" />
-<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/28eb921c-e497-4371-9569-568960cd762d" />
-
-
+![Image](https://github.com/user-attachments/assets/e4f4f095-e277-4013-8065-a2e0c3be297a)
+![Image](https://github.com/user-attachments/assets/2ba21682-d5ae-43ad-9d34-0e5accfde942)
+![Image](https://github.com/user-attachments/assets/bba80682-29f8-4a64-ae26-6b22f4c42e0d)
+![Image](https://github.com/user-attachments/assets/ea187a7a-426a-4b9e-ae21-7b168fb45c6b)
+![Image](https://github.com/user-attachments/assets/17d177bd-b9b5-4da8-b81d-2f1142ff5f78)
+![Image](https://github.com/user-attachments/assets/5b28de5f-b6a4-4e01-89ed-c3375a818b4c)
 
 ---
 
