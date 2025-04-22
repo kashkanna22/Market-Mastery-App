@@ -20,8 +20,8 @@ An iOS game that challenges users to predict whether stock prices have gone high
 - ⏱ Timer settings: 1 min, 2 min, or unlimited
 - ❤️ Life options: 1, 3, or 5 lives
 - 📊 Real market data from CoinGecko
-- 🤔 High/Low guessing mechanic with immediate feedback
-- 🔥 Streaks and multipliers for high-score chasing
+- 🤔 High/Low guessing mechanic with immediate feedback and information about crypto price and it's
+- 🔥 Streaks and multipliers to help increase score
 - 🕹️ Multiplier logic + scrollable history section
 - 🧼 Restart button resets back to home screen
 
